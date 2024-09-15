@@ -11,5 +11,5 @@ pool:
   vmImage: ''    # Remove or leave empty if using self-hosted agents
 
 steps:
-- script: echo Hello, Bejhgujbhbhhb!
+- script: echo Hello, bebli!
   displayName: 'Run a one-line script'
