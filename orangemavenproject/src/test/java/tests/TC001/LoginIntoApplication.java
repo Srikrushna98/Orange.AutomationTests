@@ -13,6 +13,7 @@ public class LoginIntoApplication extends BaseTest {
 
         Steps Steps = new Steps(getWebDriver());
         Steps.loginWithUser(CREDENTIALS);
+        // test
 
     }
 
