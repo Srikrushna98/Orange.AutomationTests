@@ -172,7 +172,7 @@ public abstract class BaseTest implements IHookable {
     }
 
     /**
-     * Generate random email string.
+     * Generate random email string ok.
      *
      * @return the string
      */
