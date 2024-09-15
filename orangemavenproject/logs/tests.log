@@ -1,0 +1,12 @@
+2024-09-15 11:05:13.986 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+2024-09-15 11:05:14.037 [main] INFO  tests.BaseTest - Local driver initialization
+2024-09-15 11:05:15.287 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-15 11:05:15.653 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/win64/chromedriver-win64.zip
+2024-09-15 11:05:17.173 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
+2024-09-15 11:05:17.337 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Srikrushna Kumar\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-15 11:05:17.467 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-15 11:05:17.475 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Srikrushna Kumar\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-15 11:05:19.300 [main] INFO  tests.BaseTest - Driver initialization finished
+2024-09-15 11:05:44.275 [main] INFO  tests.BaseTest - Driver closed
